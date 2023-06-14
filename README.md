@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2018<br>📚 I'm currently learning React and Firebase<br>🎯 Goals: Get a developer job<br>🎲 Fun fact: I replaced my informatics teacher</p>
+<p align="left">✨ Creating bugs since 2018<br>📚 I'm currently learning Next.js 13<br>🎯 Goals: Get a developer job<br>🎲 Fun fact: I replaced my informatics teacher</p>
 
 ###
 
