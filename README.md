@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2018<br>📚 I'm currently learning Supabase and Next.js 14 integration<br>🎯 Goals: Get better at wirking with backend<br>🎲 Fun fact: I replaced my informatics teacher</p>
+<p align="left">✨ Creating bugs since 2018<br>📚 I'm currently learning Supabase and Next.js 14 integration<br>🎯 Goals: Get better at backend development<br>🎲 Fun fact: I replaced my informatics teacher</p>
 
 ###
 
