@@ -17,9 +17,9 @@
 
 **<h3 align="left">Rapid Fire</h3>**
 
-- 💼 I'm currently working on: **💻 Developing a note taking app with Tauri and local LLM integration**
+- 💼 I'm currently working on: **💻 Developing a drawing idea genereator using LLM**
 - 🌱 I'm currently learning: **📚 Exploring Zustand**
-- 💬 Ask me about:💡 JavaScript, TypeScript, Next.js, Astro, Appwrite and Supabase **
+- 💬 Ask me about: **💡 JavaScript, TypeScript, Next.js, Astro, Appwrite and Supabase**
 
  **<h3 align="left">Skills</h3>**
 
