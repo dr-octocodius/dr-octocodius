@@ -19,11 +19,11 @@
 
 - 💼 I'm currently working on: **💻 Developing a note taking app with Tauri and local LLM integration**
 - 🌱 I'm currently learning: **📚 Exploring Zustand**
-- 💬 Ask me about: **💡 JavaScript, TypeScript, Next.js, Astro, Appwrite and Supabase **
+- 💬 Ask me about:💡 JavaScript, TypeScript, Next.js, Astro, Appwrite and Supabase **
 
  **<h3 align="left">Skills</h3>**
 
-<div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;"><img src="https://skillicons.dev/icons?i=typescript" height="32" alt="TypeScript" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=javascript" height="32" alt="JavaScript" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=rust" height="32" alt="Rust" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=react" height="32" alt="React" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=nextjs" height="32" alt="Nextjs" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=astro" height="32" alt="Astro" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=vite" height="32" alt="Vite" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=bun" height="32" alt="Bun" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=tauri" height="32" alt="Tauri" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=supabase" height="32" alt="Supabase" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=appwrite" height="32" alt="Appwrite" style="margin-right: 4px"></div>
+<div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;"><img src="https://skillicons.dev/icons?i=typescript" height="32" alt="TypeScript" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=javascript" height="32" alt="JavaScript" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=react" height="32" alt="React" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=nextjs" height="32" alt="Nextjs" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=astro" height="32" alt="Astro" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=vite" height="32" alt="Vite" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=bun" height="32" alt="Bun" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=tauri" height="32" alt="Tauri" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=supabase" height="32" alt="Supabase" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=appwrite" height="32" alt="Appwrite" style="margin-right: 4px"></div>
 
  **<h3 align="left">GitHub Stats</h3>**
 
