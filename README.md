@@ -50,7 +50,7 @@ Most of my commercial work is private due to client ownership, but I am open to 
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat\&logo=githubactions\&logoColor=white)
 ![Coolify](https://img.shields.io/badge/Coolify-000000?style=flat\&logoColor=white)
 
----
+
 
 ## Currently Working On
 
@@ -58,7 +58,7 @@ Most of my commercial work is private due to client ownership, but I am open to 
 * Improving my React / Next.js architecture skills for larger production applications
 * Deepening knowledge of scalable frontend patterns, monorepos, and deployment workflows
 
----
+
 
 ## Selected Experience
 
@@ -67,25 +67,16 @@ Most of my commercial work is private due to client ownership, but I am open to 
 * Worked with authentication flows, permissions, user roles, database-related logic, and production debugging.
 * Set up personal and client project architecture, deployment workflows, VPS hosting, domains, environment variables, and CI/CD-style release processes.
 
----
+
 
 ## GitHub Note
 
 A large part of my work is commercial or client-owned, so many repositories are private.
 This profile focuses on selected public experiments, learning projects, and technical exploration.
 
----
 
 ## Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-dr--octocodius-100000?style=flat\&logo=github\&logoColor=white)](https://github.com/dr-octocodius)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-David_Gherlovanu-0077B5?style=flat\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/dr-octocodius)
 [![Email](https://img.shields.io/badge/Email-davidiscrafting%40gmail.com-D14836?style=flat\&logo=gmail\&logoColor=white)](mailto:davidiscrafting@gmail.com)
-
----
-
-## GitHub Stats
-
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=dr-octocodius&theme=default&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="Top languages" />
-</p>
