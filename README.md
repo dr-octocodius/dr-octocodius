@@ -1,43 +1,91 @@
-![👋 Hi, my name is David Gherlovanu](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
+# Hi, I'm David Gherlovanu
 
-<div id="toc">
-  <ul align="left" style="list-style: none">
-    <summary>
-      <h1>
-        👋 Hi, my name is David Gherlovanu
-      </h1>
-    </summary>
-  </ul>
-</div>
+**Frontend / Full-Stack JavaScript Developer**
+React • Next.js • TypeScript • REST APIs • Production Web Applications
 
-**<h3 align="left">Connect with me:</h3>** 
-<p align="left"><a href="https://github.com/dr-octocodius" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://twitter.com/dr_octocodius" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=flat&logo=X&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/dr-octocodius" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a></p>
+I build modern web applications with a focus on clean frontend architecture, API-driven features, responsive UI, and practical product delivery.
 
- **<h3 align="left">
- I build modern web applications with a focus on clean frontend architecture, API-driven features, responsive UI, and practical product delivery.
-<br>
 My background combines frontend development with full-cycle application work: business logic, REST API integrations, authentication flows, database-related logic, deployment, CI/CD basics, self-hosting, and production debugging.
-<br>
-Most of my commercial work is private due to client ownership, but I am always open to discussing architecture decisions, implementation challenges, and selected technical examples during interviews.
- </h3>**
 
-**<h3 align="left">Rapid Fire</h3>**
+Most of my commercial work is private due to client ownership, but I am open to discussing architecture decisions, implementation challenges, and selected technical examples during interviews.
 
-- 💼 I'm currently working on: **💻 Developing a personal project management / time tracking application intgrated with AI Agents**
-- 🌱 I'm currently learning: **📚 Exploring AI Agents use for everyday use and work**
-- 💬 Ask me about: **💡 JavaScript, TypeScript, Next.js, Astro, Supabase**
+---
 
- **<h3 align="left">Skills</h3>**
+## Focus Areas
 
-<div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;"><img src="https://skillicons.dev/icons?i=typescript" height="32" alt="TypeScript" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=javascript" height="32" alt="JavaScript" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=react" height="32" alt="React" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=nextjs" height="32" alt="Nextjs" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=astro" height="32" alt="Astro" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=vite" height="32" alt="Vite" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=bun" height="32" alt="Bun" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=tauri" height="32" alt="Tauri" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=supabase" height="32" alt="Supabase" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=appwrite" height="32" alt="Appwrite" style="margin-right: 4px"></div>
+* Frontend development with **React**, **Next.js**, **TypeScript**, and **Tailwind CSS**
+* API-driven applications using **REST APIs**, **Supabase**, **PostgreSQL**, and server-side logic
+* Production-oriented development: deployment, environment configuration, debugging, and maintainability
+* Client and internal business applications: dashboards, admin panels, forms, integrations, and automation workflows
+* Self-hosted projects using VPS infrastructure, Docker/Coolify-based deployment, and CI/CD-style workflows
 
- **<h3 align="left">GitHub Stats</h3>**
+---
+
+## Tech Stack
+
+### Frontend
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat\&logo=typescript\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat\&logo=javascript\&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat\&logo=react\&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat\&logo=nextdotjs\&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat\&logo=astro\&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat\&logo=tailwindcss\&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat\&logo=shadcnui\&logoColor=white)
+
+### Backend, Data & Auth
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat\&logo=nodedotjs\&logoColor=white)
+![Hono](https://img.shields.io/badge/Hono-E36002?style=flat\&logo=hono\&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat\&logo=supabase\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat\&logo=postgresql\&logoColor=white)
+![Drizzle ORM](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=flat\&logoColor=black)
+![Better Auth](https://img.shields.io/badge/Better_Auth-000000?style=flat\&logoColor=white)
+
+### Tools & Delivery
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat\&logo=docker\&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat\&logo=cloudflare\&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat\&logo=vercel\&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat\&logo=githubactions\&logoColor=white)
+![Coolify](https://img.shields.io/badge/Coolify-000000?style=flat\&logoColor=white)
+
+---
+
+## Currently Working On
+
+* A personal project management and time tracking application with AI-assisted workflows
+* Improving my React / Next.js architecture skills for larger production applications
+* Deepening knowledge of scalable frontend patterns, monorepos, and deployment workflows
+
+---
+
+## Selected Experience
+
+* Built and maintained production web application features with complex business logic, dashboards, forms, data flows, and third-party integrations.
+* Integrated services such as Stripe, OpenAI API, transactional email tools, messaging services, and automation platforms.
+* Worked with authentication flows, permissions, user roles, database-related logic, and production debugging.
+* Set up personal and client project architecture, deployment workflows, VPS hosting, domains, environment variables, and CI/CD-style release processes.
+
+---
+
+## GitHub Note
+
+A large part of my work is commercial or client-owned, so many repositories are private.
+This profile focuses on selected public experiments, learning projects, and technical exploration.
+
+---
+
+## Connect
+
+[![GitHub](https://img.shields.io/badge/GitHub-dr--octocodius-100000?style=flat\&logo=github\&logoColor=white)](https://github.com/dr-octocodius)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-David_Gherlovanu-0077B5?style=flat\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/dr-octocodius)
+[![Email](https://img.shields.io/badge/Email-davidiscrafting%40gmail.com-D14836?style=flat\&logo=gmail\&logoColor=white)](mailto:davidiscrafting@gmail.com)
+
+---
+
+## GitHub Stats
 
 <p align="left">
-  <img width="48%" src="https://streak-stats.demolab.com/?user=dr-octocodius&theme=catppuccin-mocha&hide_border=false&date_format=M+j%5B%2C+Y%5D&mode=daily&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&card_height=200" alt="GitHub streak Card" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=dr-octocodius&theme=catppuccin_mocha&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=dr-octocodius&theme=default&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="Top languages" />
 </p>
-
- **<h3 align="left">Support Me</h3>**
-
-<p align="left"><a href="https://ko-fi.com/dr_octocodius" target="_blank"><img src="https://img.shields.io/badge/Ko--fi-343B45?style=for-the-badge&logo=kofi&logoColor=Black" height="36" style="margin-right: 8px"></a></p>
