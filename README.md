@@ -9,7 +9,7 @@ My background combines frontend development with full-cycle application work: bu
 
 Most of my commercial work is private due to client ownership, but I am open to discussing architecture decisions, implementation challenges, and selected technical examples during interviews.
 
----
+
 
 ## Focus Areas
 
@@ -19,7 +19,7 @@ Most of my commercial work is private due to client ownership, but I am open to 
 * Client and internal business applications: dashboards, admin panels, forms, integrations, and automation workflows
 * Self-hosted projects using VPS infrastructure, Docker/Coolify-based deployment, and CI/CD-style workflows
 
----
+
 
 ## Tech Stack
 
