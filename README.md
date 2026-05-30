@@ -17,9 +17,9 @@
 
 **<h3 align="left">Rapid Fire</h3>**
 
-- 💼 I'm currently working on: **💻 Developing a drawing idea genereator using LLM**
-- 🌱 I'm currently learning: **📚 Exploring Zustand**
-- 💬 Ask me about: **💡 JavaScript, TypeScript, Next.js, Astro, Appwrite and Supabase**
+- 💼 I'm currently working on: **💻 Developing a personal project management / time tracking application intgrated with AI Agents**
+- 🌱 I'm currently learning: **📚 Exploring AI Agents use for everyday use and work**
+- 💬 Ask me about: **💡 JavaScript, TypeScript, Next.js, Astro, Supabase**
 
  **<h3 align="left">Skills</h3>**
 
