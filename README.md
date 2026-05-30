@@ -13,7 +13,13 @@
 **<h3 align="left">Connect with me:</h3>** 
 <p align="left"><a href="https://github.com/dr-octocodius" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://twitter.com/dr_octocodius" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=flat&logo=X&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/dr-octocodius" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
- **<h3 align="left">🎨 Visionary multimedia developer with a strong foundation in fullstack web development, blending creativity and technical expertise to craft intuitive and high-performing applications. Passionate about integrating cutting-edge technologies with sleek design, ensuring seamless user experiences and scalable solutions. Aspiring to push boundaries in both digital media and the web, one project at a time.</h3>**
+ **<h3 align="left">
+ I build modern web applications with a focus on clean frontend architecture, API-driven features, responsive UI, and practical product delivery.
+<br>
+My background combines frontend development with full-cycle application work: business logic, REST API integrations, authentication flows, database-related logic, deployment, CI/CD basics, self-hosting, and production debugging.
+<br>
+Most of my commercial work is private due to client ownership, but I am always open to discussing architecture decisions, implementation challenges, and selected technical examples during interviews.
+ </h3>**
 
 **<h3 align="left">Rapid Fire</h3>**
 
